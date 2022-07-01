@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <a href="sofweal.github.io">
     <img src="https://avatars.githubusercontent.com/u/105735461?s=200&v=4" />
   </a>
